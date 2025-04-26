@@ -23,10 +23,6 @@ Quiz_Game-using-JavaFX--main/
   │    │    ├── Main.java
   │    │    ├── QuizController.java
   │    │    └── (Other necessary Java classes)
-  │    └── application.fxml
-  ├── resources/
-  │    └── styles.css
-  └── README.md (You are here!)
 ```
 
 ## Future Improvements
